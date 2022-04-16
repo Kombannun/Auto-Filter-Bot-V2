@@ -10,7 +10,7 @@
     ],
     "website": "https://kombannun.me",
     "repository": "https://github.com/Kombannun/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "success_url": "https://telegram.dog/kombannun",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
